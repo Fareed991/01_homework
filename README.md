@@ -1,4 +1,4 @@
-![alt text](acorns-t.png)
+![alt text](acorns-t.jpg)
 # Acorns case study
 ## Overview and Origin:
 * The company name Acorns that is best known as a micro-investing platform. [1]
@@ -17,5 +17,7 @@ Acorns has a post-money valuation in the range of $500M to $1B as of Jan 29, 201
 * For implamenting the them they use Segment, Optimizely, Mailgun and Google Analytics.
 * And for DevOps they use Github, Docher, Amanzon CloudWatch and many more.
 ## Landscape:
-*
+* What domain of the financial industry is the company in? 
+Investing.
+
 
