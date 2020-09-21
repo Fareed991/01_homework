@@ -1,5 +1,5 @@
-# 01_homework
-Acorns case study
+## 01_homework
+# Acorns case study
 * The company name Acorns that is best known as a micro-investing platform. [1]
 * founded in 2012 by Jeff Cruttenden and his father and lunched in 2014.[2]
 * Cruttenden, 28, came up with the idea for the business in 2011 while he was a student in Portland, Oregon.
