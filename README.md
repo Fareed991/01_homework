@@ -1,7 +1,7 @@
 ![Acorn Logo](Logo.jpg)
 # Acorns case study
 ## Overview and Origin:
-* The company name Acorns that is best known as a micro-investing platform. [1]
+* The company name Acorns that is best known as a micro-investing platform. [1](https://www.forbes.com/companies/acorns/?list=fintech/#7f50003f3529)
 * Founded in 2012 by Jeff Cruttenden and his father and lunched in 2014.[2]
 * Cruttenden, 28, came up with the idea for the business in 2011 while he was a student in Portland, Oregon.
 "So many of my friends talked about investing all the time, but they literally had nothing," he said. [3]
