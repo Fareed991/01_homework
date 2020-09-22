@@ -1,4 +1,4 @@
-![Acorn Logo](Logo.jpg)
+![Acorns Logo](Logo.jpg)
 # Acorns case study
 ## Overview and Origin:
 * The company name Acorns that is best known as a micro-investing platform. [1](https://www.forbes.com/companies/acorns/?list=fintech/#7f50003f3529)
