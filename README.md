@@ -38,9 +38,15 @@ Investing (Robo-Advisor)
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 * * **Automated approach:** We’re behind any tool that encourages mindless, automatic saving. If you don’t have to think about saving, you’re more likely to do it.
 * * **Minimum investment:** There’s no minimum to open an account, but the service requires a $5 balance to start investing in one of Acorn’s five pre-built portfolios.
-* * **Found Money:** The only thing better than building an investment portfolio out of a bunch of spare change is building an investment portfolio out of someone else’s money. Acorns' Found Money program essentially lets you do that: It’s cash back for your investment account.
+* * **Found Money:** The only thing better than building an investment portfolio out of a bunch of spare change is building an investment portfolio out of someone else’s money. Acorns' Found Money program essentially lets you do that: It’s cash back for your investment account.[8](https://www.nerdwallet.com/reviews/investing/advisors/acorns?scrollTo=full-review-scroll-target)
 * How is your company performing relative to competitors in the same domain?
 * * According to this study about Robo-advisor performance for the past 2.5 years Acorns was 3.49%, number 8 in the top 20 Robo-advisor company in the chart.[9](https://www.nerdwallet.com/blog/investing/robo-advisor-performance-is-only-one-piece-of-the-puzzle/)
+
+## Recommendations
+* For the microsavings category, I think Acorns is the best service available. 
+* Acorns is a good start if you have little to save or need a nudge to start investing without affecting your lifestyle. However, the monthly deposits are way too small to be considered a serious method for saving toward retirement.
+* For exampile **Betterment** is a better option for large deposit amounts with lower annual fee. n response to Acorns' microsavings service, **Betterment** has **SmartDeposit**, automating investing once your bank account is above a specified dollar amount. However, nothing is stopping you from using both services to boost your savings rate.
+* Ultimately, most individuals don’t save enough for a rainy day, and Acorns will help start you down this path. [10](https://investorjunkie.com/reviews/acorns/)
 
 
 
