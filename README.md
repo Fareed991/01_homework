@@ -43,10 +43,12 @@ So instead of pitching in just those 57 cents from my gas station purchase, I ca
 
 ## Results 
 * What has been the business impact of this company so far? 
+* * While Acorns might not be an impact investing app in a traditional sense, it definitely will have a big impact in several ways. Acorns has a huge impact on millennials who have smartphones — the small savings grow with time. It benefits millennials who do not have time to save and also limits overspending. The app mimics the traditional change jars, and given e-commerce, e-wallets and online shopping, Acorns is set to change the savings culture of online shoppers.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 * * **Automated approach:** We’re behind any tool that encourages mindless, automatic saving. If you don’t have to think about saving, you’re more likely to do it.
 * * **Minimum investment:** There’s no minimum to open an account, but the service requires a $5 balance to start investing in one of Acorn’s five pre-built portfolios.
+
 * * **Found Money:** The only thing better than building an investment portfolio out of a bunch of spare change is building an investment portfolio out of someone else’s money. Acorns' Found Money program essentially lets you do that: It’s cash back for your investment account.[9](https://www.nerdwallet.com/reviews/investing/advisors/acorns?scrollTo=full-review-scroll-target)
 * How is your company performing relative to competitors in the same domain?
 * * Acorns has found unprecedented growth as the coronavirus brings new users into its world of investing and saving money. The company recently hit a milestone of 7 million sign-ups, continuing the trend that trading apps are benefiting from a down market.
